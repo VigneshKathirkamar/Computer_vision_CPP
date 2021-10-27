@@ -1,4 +1,4 @@
-# Computer_vision_C-
+# Computer_vision_C++
 All my learning in computer vision with c++
 
 1. Installation of opencv for C++ and setting it up for VS code:
